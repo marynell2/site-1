@@ -1,0 +1,28 @@
+
+* body	{
+	font-family: Verdana, Arial, sans-serif;
+}
+img{
+	width: 960px; height: 200px; 
+}
+h1, h2, h3 	{
+	color: black; text-align: center;
+}
+p		{	
+	color: black;
+}
+a:link	{
+	color: #00cccc;
+}	
+a:visited {
+	color: #0099ff;
+}
+a:hover {
+	color: #ff66ff;
+}	
+a:active {
+	color: #ff6600;
+}
+footer	{
+	font-size: small;
+}
