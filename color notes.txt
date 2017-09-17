@@ -1,0 +1,17 @@
+#e45757
+# lighter terra cotta
+e97878
+f4bbbb
+==============
+
+ffe6ff light pink
+
+====================
+
+#00cccc  orig turquoise
+00ced1   dark turquoise
+
+104e8b  dodger blue 4
+
+link color 00cccc
+
